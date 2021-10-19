@@ -31,7 +31,7 @@ function Footer() {
 
       <div className="space-y-4 text-xs text-gray-800">
         <h5 className="font-bold">SUPPORT</h5>
-        <p>Our COVID-19 Response</p>
+        <p>Support is Nice</p>
         <p>Neighborhood Support</p>
         <p>Help Center</p>
         <p>Trust & Safety</p>
